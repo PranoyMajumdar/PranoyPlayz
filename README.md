@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @PranoyPlayz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-PranoyPlayz/PranoyPlayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <h1 align="center">
 
   <b>PranoyPlayz</b>
@@ -60,30 +52,4 @@ if __name__ == '__main__':
 
     me = PranoyPlayz()
 
-```
 
-<div align="center">
-
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-
-  </a>
-
-</div>
-
-<!--
-
-<div align="center">
-
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-
-  </a>
-
-</div>
-
--->
-
-<br/>
