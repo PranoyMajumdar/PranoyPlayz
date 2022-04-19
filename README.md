@@ -29,27 +29,18 @@ learning programming through small projects  on the side.
 ```python
 
 class PranoyPlayz():
-
-    
-
   def __init__(self):
-
     self.name = "Pranoy Majumdar"
-
     self.username = "PranoyPlayz"
-
     self.location = "Odisha, India"
-
     self.instagram = "@itx.pranoy"
 
   
 
   def __str__(self):
-
     return self.name
 
 if __name__ == '__main__':
-
     me = PranoyPlayz()
 
 
